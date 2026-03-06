@@ -1,5 +1,5 @@
 Container v0.1
-一款 Local-first 的大模型桌面工作台：集成大模型管理、对话、蜂群、工具调用（MCP）、RAG 知识库、工作区自动化任务与 OpenAI 兼容 API 网关，让本地推理真正可用、可控、可扩展。
+一款 免费Local-first 的大模型桌面工作台：集成大模型管理、对话、蜂群、工具调用（MCP）、RAG 知识库、工作区自动化任务与 OpenAI 兼容 API 网关，让本地推理真正可用、可控、可扩展。
 把大模型从“一个人聊天”升级为“一个团队工作”： 蜂群多智能体编排 + 工具系统 + 本地推理与 API 网关，一体化交付可执行结果。
 
 Highlights
@@ -55,7 +55,7 @@ V0.1
 Full Changelog: https://github.com/peoples111/container/commits/llm
 
 Container v0.1
-A Local-first Large Language Model Desktop Workbench: Integrating model management, chat, swarm orchestration, tool calling (MCP), RAG knowledge bases, workspace automation, and an OpenAI-compatible API gateway. We make local inference truly usable, controllable, and scalable.
+A free Local-first Large Language Model Desktop Workbench: Integrating model management, chat, swarm orchestration, tool calling (MCP), RAG knowledge bases, workspace automation, and an OpenAI-compatible API gateway. We make local inference truly usable, controllable, and scalable.
 Upgrade your workflow from "chatting with one AI" to "working with a team."
 Container delivers an all-in-one solution combining Swarm multi-agent orchestration, a robust tool system, and local inference/API gateway capabilities to produce executable results.
 🌟 Highlights
