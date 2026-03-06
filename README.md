@@ -34,7 +34,7 @@ Structured Output：支持 JSON Schema 约束输出
 - **Swarm 蜂群多智能体**
 角色编排、层级关系、可视化、导入导出、角色预算控制
 ![1772766604245](https://github.com/peoples111/container/blob/main/202603061348535.png?raw=true )
-- **工作区与检索 **
+- **工作区与检索**
 - - 文件树、文本搜索、语义搜索，终端自动化创建项目 ![1772775062020](https://github.com/peoples111/container/blob/main/202603061348536.png?raw=true)
 - **并发测试**
 - - 测试模型能力，优化调参
@@ -49,6 +49,7 @@ Quick Start
 Notes
 视觉理解、语音、本地 GPU 指标采集等能力受系统环境与驱动影响；建议保持显卡驱动更新。
 语义搜索需要已安装并启用支持 indexing/search 的 MCP 服务，并先建立索引。
+
 Changelog
 V0.1
 Full Changelog: https://github.com/peoples111/container/commits/llm
