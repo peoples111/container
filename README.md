@@ -4,7 +4,7 @@ Container v0.1
 
 Highlights
 开箱即用的桌面体验： Local-first 推理，模型与数据主要在本机处理，延迟低、可控性强聊天（可选免费api，无需部署） + 参数面板 + 控制台 + 资源监控，所有关键状态可视化
-image - **OpenAI 兼容 API 网关**：本地应用也能被你的工具链直接调用（SSE 流式、模型列表、embeddings 等） - **MCP 工具生态**：一键安装自定义工具，基本预设满足日常工作需求 70b302402dd27db73627c70fa22b9d9 - **RAG 知识库**：目录/单文件索引、刷新与清理索引、可控召回数量与阈值 - **工作区与检索**：文件树、文本搜索、语义搜索（依赖支持 indexing/search 的 MCP 服务） - **运行时引擎管理**：管理本地推理引擎（Windows：CUDA / Vulkan / CPU），支持下载、切换版本与额外启动参数
+[image](https://github.com/peoples111/container/blob/main/20260306134853.png?raw=true) - **OpenAI 兼容 API 网关**：本地应用也能被你的工具链直接调用（SSE 流式、模型列表、embeddings 等） - **MCP 工具生态**：一键安装自定义工具，基本预设满足日常工作需求 70b302402dd27db73627c70fa22b9d9 - **RAG 知识库**：目录/单文件索引、刷新与清理索引、可控召回数量与阈值 - **工作区与检索**：文件树、文本搜索、语义搜索（依赖支持 indexing/search 的 MCP 服务） - **运行时引擎管理**：管理本地推理引擎（Windows：CUDA / Vulkan / CPU），支持下载、切换版本与额外启动参数
 Core Features
 模型管理
 支持本地模型导入/删除
