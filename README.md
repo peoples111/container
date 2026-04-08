@@ -1,6 +1,6 @@
 ## Container v0.3
 
-一款免费 **Local-first** 的支持多模态的大模型桌面工作台：集成大模型部署、管理、对话、搜索下载，蜂群、工具调用（MCP）、RAG 知识库、agent skill、桌面自动化操作, OpenAI 兼容 API 网关，视频通话，语音输入，语音播报，语音识别，长记忆（视觉和文本），人机协作……让本地推理真正可用、可控、可扩展。
+一款免费 **Local-first** 的支持多模态的大模型桌面工作台：集成大模型部署、管理、对话、搜索下载，蜂群、工具调用（MCP）、RAG 知识库、agent skill、桌面自动化操作, OpenAI 兼容 API 网关，视频通话，语音输入，语音播报，语音识别，长记忆（视觉和文本），人机协作，网页和本地视频识别……让本地推理真正可用、可控、可扩展。
 把大模型从“一个人聊天”升级为“一个团队工作”： 蜂群多智能体编排 + 工具系统 + 本地推理与 API 网关，一体化交付可执行结果。
 
 ### Highlights
@@ -59,6 +59,8 @@ v0.3新增功能和修复：
 
 -**在线语音播报**
 
+-**网页和本地视频识别**
+
 修复大量已知问题，增强国际化适配。
    
 
@@ -79,7 +81,7 @@ v0.3新增功能和修复：
 **Full Changelog**: https://github.com/peoples111/container/commits/llm
 
 Container v0.3
-A free, local-first desktop workspace for multimodal large language models: integrating LLM deployment, management, chat, search and download, swarm intelligence, tool calling (MCP), RAG knowledge base, agent skills, desktop automation, OpenAI-compatible API gateway, video calls, voice input, voice synthesis, speech recognition, long-term memory (visual and textual), human-AI collaboration, and more. Making local inference truly usable, controllable, and extensible.
+A free, local-first desktop workspace for multimodal large language models: integrating LLM deployment, management, chat, search and download, swarm intelligence, tool calling (MCP), RAG knowledge base, agent skills, desktop automation, OpenAI-compatible API gateway, video calls, voice input, voice synthesis, speech recognition, long-term memory (visual and textual), human-AI collaboration, Webpage and Local Video Recognition,and more. Making local inference truly usable, controllable, and extensible.
 Elevate LLMs from "one-on-one chat" to "a team at work": swarm multi-agent orchestration + tool system + local inference & API gateway, delivering actionable results in one integrated package.
 Highlights
 Out-of-the-box desktop experience: Local-first inference with models and data processed primarily on your device — low latency, high control. Chat (with optional free APIs, no deployment required) + parameter panel + console + resource monitoring, with all key states visualized.
@@ -114,12 +116,21 @@ Concurrency Testing
 Test model capabilities and optimize parameters
 Privacy-First (Local-First)
 Your conversations, prompts, knowledge bases, and model files are stored locally by default. No content collection or user profiling is performed. For stability purposes, only minimal diagnostic data (error level/summary, stack trace, page route, client version, and basic device info) is uploaded on crashes — no conversation content, file data, API keys, or private information is included.
+
 New in v0.3
+
 Human-AI Collaboration
+
 Long-term Memory (text & visual)
+
 Video Calls
+
 Online Voice Synthesis
+
+Webpage and Local Video Recognition
+
 Numerous bug fixes and improved internationalization support.
+
 Quick Start
 Download and install: see Release Assets
 Launch the app → set model directory and runtime directory (optional)
