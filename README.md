@@ -1,6 +1,6 @@
 ## Container v0.3
 
-一款免费 **Local-first** 的支持多模态的大模型桌面工作台：集成大模型部署、管理、对话、搜索下载，蜂群、工具调用（MCP）、RAG 知识库、agent skill、桌面自动化操作, OpenAI 兼容 API 网关，视频通话，语音输入，语音播报，语音识别，长记忆（视觉和文本），人机协作，网页和本地视频识别……让本地推理真正可用、可控、可扩展。
+一款免费 **Local-first** 的支持多模态的大模型桌面工作台：集成大模型部署、管理、对话、搜索下载，蜂群、工具调用（MCP）、RAG 知识库、agent skill、桌面自动化操作, OpenAI 兼容 API 网关，视频通话，语音输入，语音播报，语音识别，长记忆（视觉和文本），人机协作，实时引导，网页和本地视频识别……让本地推理真正可用、可控、可扩展。
 把大模型从“一个人聊天”升级为“一个团队工作”： 蜂群多智能体编排 + 工具系统 + 本地推理与 API 网关，一体化交付可执行结果。
 
 ### Highlights
@@ -53,6 +53,8 @@ v0.3新增功能和修复：
 -**人机协作**
   <img width="1921" height="1018" alt="1772775062020" src="https://github.com/peoples111/container/blob/main/202641-202530.png?raw=true" />
 
+-**实时引导**
+
 -**长记忆（文本和视觉）**
 
 -**视频通话**
@@ -81,7 +83,7 @@ v0.3新增功能和修复：
 **Full Changelog**: https://github.com/peoples111/container/commits/llm
 
 Container v0.3
-A free, local-first desktop workspace for multimodal large language models: integrating LLM deployment, management, chat, search and download, swarm intelligence, tool calling (MCP), RAG knowledge base, agent skills, desktop automation, OpenAI-compatible API gateway, video calls, voice input, voice synthesis, speech recognition, long-term memory (visual and textual), human-AI collaboration, Webpage and Local Video Recognition,and more. Making local inference truly usable, controllable, and extensible.
+A free, local-first desktop workspace for multimodal large language models: integrating LLM deployment, management, chat, search and download, swarm intelligence, tool calling (MCP), RAG knowledge base, agent skills, desktop automation, OpenAI-compatible API gateway, video calls, voice input, voice synthesis, speech recognition, long-term memory (visual and textual), human-AI collaboration, Live Guidance,Webpage and Local Video Recognition,and more. Making local inference truly usable, controllable, and extensible.
 Elevate LLMs from "one-on-one chat" to "a team at work": swarm multi-agent orchestration + tool system + local inference & API gateway, delivering actionable results in one integrated package.
 Highlights
 Out-of-the-box desktop experience: Local-first inference with models and data processed primarily on your device — low latency, high control. Chat (with optional free APIs, no deployment required) + parameter panel + console + resource monitoring, with all key states visualized.
@@ -120,6 +122,8 @@ Your conversations, prompts, knowledge bases, and model files are stored locally
 New in v0.3
 
 Human-AI Collaboration
+
+Live Guidance
 
 Long-term Memory (text & visual)
 
