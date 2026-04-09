@@ -58,6 +58,8 @@ v0.3新增功能和修复：
 -**长记忆（文本和视觉）**
 
 -**视频通话**
+<img width="1921" height="1018" alt="1772775062020" src="https://github.com/peoples111/container/blob/main/202649-163353.png?raw=true" />
+
 
 -**在线语音播报**
 
